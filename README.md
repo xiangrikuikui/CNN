@@ -5,3 +5,5 @@ Olivetti Faces是纽约大学的一个比较小的人脸库，由40个人的400�
 运行 python use_CNN_olivettifaces.py 可以使用得到的模型进行人脸识别。
 
 最后测试的结果，仍然以整副 olivettifaces.gif 作为输入，得出其类别后，跟真正的label对比，程序输出被错分的那些图像。
+
+更多请见http://blog.csdn.net/u012162613/article/details/43277187
